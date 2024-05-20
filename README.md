@@ -1,5 +1,11 @@
--Python
--Java
--C#
--small amount of C
--HTML, CSS, Javascript
+
+\ 0 /     \ 0 /       
+  |         |      
+  |         |
+ / \       / \  
+
+ 
+\ 0 /     \ 0 /       
+  |         |      
+  |         |
+ / \       / \  
