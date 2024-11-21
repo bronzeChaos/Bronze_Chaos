@@ -1,2 +1,1 @@
-x=2sin(t)
-y=cos(t)-sin(3t)
+The one and only president of freak nation
